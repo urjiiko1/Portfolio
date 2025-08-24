@@ -1,70 +1,105 @@
-# Getting Started with Create React App
+# 💻 Professional Web Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A personal portfolio website built with **React** and **Tailwind CSS**, showcasing projects, skills and contact information. Designed to be responsive, modern and easy to maintain.
 
-## Available Scripts
+> Feel free to contribute or suggest improvements!  
+> **Note:** This README is a work-in-progress and will be updated as new features and sections are added.
 
-In the project directory, you can run:
+---
 
-### `npm start` 
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Check out the live demo: **[Live Demo](https://urjiiko1.github.io/personal-portofolio/)**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📋 What’s Included
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🏠 **Home Section:** Introduction with name, title and call-to-action buttons.  
+- 🗂 **Projects Showcase:** Cards for each project with images, descriptions and GitHub links.  
+- 💻 **Skills Section:** Grid displaying programming languages, frameworks and tools.  
+- 🙋‍♂️ **About Section:** Personal bio and professional summary.  
+- 📬 **Contact Form:** Functional contact form styled with Tailwind CSS.  
+- 📱 **Responsive Design:** Works seamlessly on all screen sizes.  
+- 🌙 **Dark Mode Support:** Smooth toggle between light and dark themes.  
+- 🔗 **Navigation:** Smooth scroll navigation between sections.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Frontend:** React ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+- **Styling:** Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+- **Languages:** JavaScript ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black), HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white), CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+- **Icons:** React Feather  
+- **Forms:** Formspree  
+- **Version Control:** Git, GitHub  
+- **Deployment:** GitHub Pages  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🖼 Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Front View](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/FrontView.png)
+![My Skills Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Myskill.png)
+![My Project Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Myproject.png)
+![About Me Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Aboutme.png)
+![Contact Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Contact.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📚 Useful Resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Tailwind Elements Button Group](https://tw-elements.com/docs/react/components/button-group/)
 
-### Analyzing the Bundle Size
+- [React Contact Components](https://reactcomponents.com/?tags=contact&type=components&id=78)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## 📬 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- ✉️ Email: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)  
+- 📞 Phone: [ +251976601074](tel:+251976601074)  
+- 📍 Location: Adaama, Ethiopia  
 
-### `npm run build` fails to minify
+Connect with me on:  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/GemachisTe79854)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/urjiiko1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gemachis-tesfaye-137196318)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/urjiiko1)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 🚧 Future Improvements
+
+- 🌟 Add more interactive projects  
+- 📝 Implement a blog section  
+- ♿ Enhance accessibility and SEO features  
+- ✨ Add animations for skills and projects
+
+
+---
+
+
+## 🤝 Contributions & Feedback
+
+Contributions are what make the open-source community an amazing place to learn and create. Any feedback, suggestions, or bug reports are highly appreciated.
+
+
+
+> Made with ❤️ using React & Tailwind CSS
+
+
+
+
+
+---
