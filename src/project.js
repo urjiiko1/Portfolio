@@ -67,18 +67,18 @@ const Project = () => {
             key={index}
             className="relative group rounded-3xl overflow-hidden shadow-2xl transform transition-all duration-500 hover:scale-105"
           >
-            {/* Background Image */}
+            
             <img
               src={project.img}
               alt={project.name}
               className="w-full h-56 object-cover group-hover:scale-110 transition-transform duration-500"
             />
-            {/* Glass overlay */}
+           
             <div className="absolute inset-0 bg-black/25 backdrop-blur-sm group-hover:bg-black/50 transition-all duration-500"></div>
 
-            {/* Content */}
+           
             <div className="absolute inset-0 flex flex-col justify-end p-6 text-white opacity-0 group-hover:opacity-100 transition-all duration-500">
-              {/* Animated Icon */}
+              
               <div className="flex items-center gap-2 mb-2">
                 <span className="p-2 bg-white/20 rounded-full backdrop-blur-sm animate-bounce">
                   {project.icon}
@@ -88,7 +88,7 @@ const Project = () => {
 
               <p className="text-sm mb-4">{project.description}</p>
 
-              {/* Buttons */}
+             
               <div className="flex gap-4">
                 {project.liveDemo && (
                   <a
