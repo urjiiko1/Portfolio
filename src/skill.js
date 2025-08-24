@@ -10,8 +10,8 @@ const Skill = () => {
       items: [
         { name: 'HTML', level: 90, color: 'bg-orange-500', img: 'https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' },
         { name: 'CSS', level: 85, color: 'bg-blue-600', img: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' },
-        { name: 'Python', level: 50, color: 'bg-blue-300', img: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' },
-        { name: 'JavaScript', level: 60, color: 'bg-yellow-400', img: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' },
+        { name: 'Python', level: 60, color: 'bg-blue-300', img: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' },
+        { name: 'JavaScript', level: 70, color: 'bg-yellow-400', img: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' },
          { name: 'React', level: 50, color: 'bg-blue-400', img: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg' }
       ]
     },
@@ -71,7 +71,7 @@ const Skill = () => {
                     </div>
                     <p className="text-xl font-semibold text-gray-900 dark:text-white">{skill.name}</p>
                     
-                    {/* Animated Color-coded Progress Bar */}
+                    
                     <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2 mt-2 overflow-hidden">
                       <div
                         className={`${skill.color} h-2 rounded-full transition-all duration-1000 ease-in-out`}
