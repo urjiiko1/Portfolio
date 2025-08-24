@@ -44,7 +44,9 @@ const Contact = () => {
     return (
       <section id="contact" className="bg-gradient-to-b from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800 min-h-screen flex items-center justify-center transition-colors duration-300">
         <div className="text-center px-6">
-          <p className="text-3xl font-bold text-gray-900 dark:text-white">Thank you! I'll get back to you shortly.</p>
+          <p className="text-3xl font-bold text-gray-900 dark:text-white">
+            Thank you! I'll get back to you shortly.
+          </p>
         </div>
       </section>
     );
@@ -59,7 +61,9 @@ const Contact = () => {
 
       <div ref={ref} className={`transition-opacity duration-1000 ${inView ? "opacity-100" : "opacity-0"}`}>
         <div className="group bg-white dark:bg-gray-900 rounded-2xl shadow-2xl p-8 md:p-12 transform transition-transform duration-500 hover:-translate-y-3 hover:shadow-2xl">
-          <form onSubmit={handleSubmit} className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          
+         
+          <form onSubmit={handleSubmit} className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div className="relative group">
               <input
                 type="text"
@@ -123,22 +127,27 @@ const Contact = () => {
             </div>
           </form>
 
-          {/* Contact Info */}
-          <div className="mt-16 text-center space-y-4">
-            <div className="flex flex-col md:flex-row justify-center items-center gap-6 text-gray-600 dark:text-gray-300">
-              <div className="flex items-center gap-2"><Mail size={18} /><span>gemachistesfaye36@gmail.com</span></div>
-              <div className="flex items-center gap-2"><Smartphone size={18} /><span>+251 976601074</span></div>
-              <div className="flex items-center gap-2"><MapPin size={18} /><span>Adaama, Ethiopia</span></div>
-            </div>
-
-            {/* Social Links */}
-            <div className="mt-6 flex justify-center gap-6">
-              <a href="https://x.com/GemachisTe79854" className="hover:text-indigo-500 transition-colors duration-300"><Twitter size={24} /></a>
-              <a href="https://www.instagram.com/urjiiko1" className="hover:text-pink-500 transition-colors duration-300"><Instagram size={24} /></a>
-              <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318" className="hover:text-blue-500 transition-colors duration-300"><Linkedin size={24} /></a>
-              <a href="https://github.com/urjiiko1" className="hover:text-gray-900 dark:hover:text-white transition-colors duration-300"><GitHub size={24} /></a>
+          
+          <div className="mt-16 text-center space-y-4 flex flex-col md:flex-row justify-center items-center gap-6 text-gray-600 dark:text-gray-300">
+            <a href="mailto:gemachistesfaye36@gmail.com" className="flex items-center gap-2 hover:underline">
+              <Mail size={18} /> gemachistesfaye36@gmail.com
+            </a>
+            <a href="tel:+251976601074" className="flex items-center gap-2 hover:underline">
+              <Smartphone size={18} /> +251976601074
+            </a>
+            <div className="flex items-center gap-2">
+              <MapPin size={18} /> Adaama, Ethiopia
             </div>
           </div>
+
+          
+          <div className="mt-6 flex justify-center gap-6">
+            <a href="https://x.com/GemachisTe79854" className="hover:text-indigo-500 transition-colors duration-300"><Twitter size={24} /></a>
+            <a href="https://www.instagram.com/urjiiko1" className="hover:text-pink-500 transition-colors duration-300"><Instagram size={24} /></a>
+            <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318" className="hover:text-blue-500 transition-colors duration-300"><Linkedin size={24} /></a>
+            <a href="https://github.com/urjiiko1" className="hover:text-gray-900 dark:hover:text-white transition-colors duration-300"><GitHub size={24} /></a>
+          </div>
+
         </div>
       </div>
     </section>
