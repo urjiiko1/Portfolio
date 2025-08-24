@@ -1,5 +1,5 @@
-  {  "homepage": "https://urjiiko1.github.io/personal-portofolio",
-
+{
+  "homepage": "https://urjiiko1.github.io/personal-portofolio",
   "name": "personal-portofolio",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "init:tailwind": "tailwindcss init -p"
+    "init:tailwind": "tailwindcss init -p",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
