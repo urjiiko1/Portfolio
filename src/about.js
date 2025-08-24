@@ -11,7 +11,7 @@ const About = () => {
       className="text-gray-900 dark:text-gray-100 py-16 px-8 transition-colors duration-300"
     >
       <div className="container mx-auto">
-        {/* Header */}
+        
         <div
           ref={ref}
           className={`text-center mb-16 transition-all duration-700 ${
@@ -26,9 +26,9 @@ const About = () => {
           </p>
         </div>
 
-        {/* Content */}
+        
         <div className="flex flex-col lg:flex-row items-center justify-center lg:space-x-12">
-          {/* Profile Image */}
+          
           <div
             className={`w-full lg:w-1/3 mb-12 lg:mb-0 transform transition-all duration-700 ${
               inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
@@ -42,7 +42,7 @@ const About = () => {
             />
           </div>
 
-          {/* About Text */}
+         
           <div
             className={`w-full lg:w-2/3 transition-all duration-700 ${
               inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
@@ -53,16 +53,16 @@ const About = () => {
               <p className="text-lg leading-relaxed mb-6 text-gray-800 dark:text-gray-300">
                 I am a passionate Information Science student with a strong interest
                 in front-end development and data-driven solutions. I have built
-                skills in HTML, CSS, JavaScript, React, and Python through academic
+                skills in HTML, CSS, JavaScript, React and Python through academic
                 projects and personal learning.
               </p>
               <p className="text-lg leading-relaxed mb-6 text-gray-800 dark:text-gray-300">
                 I am continuously expanding my expertise in modern technologies like
-                Tailwind CSS, databases, and data visualization. My goal is to apply
+                Tailwind CSS, databases and data visualization. My goal is to apply
                 these skills to real-world projects and contribute to innovative
                 solutions that create real impact.
               </p>
-              {/* Social Links */}
+             
               <div className="flex justify-center space-x-4">
                 <a
                   href="https://www.linkedin.com/in/gemachis-tesfaye-137196318"
