@@ -5,7 +5,7 @@ const Navbar = ({ isDarkMode, toggleDarkMode }) => {
   const [isOpen, setIsOpen] = useState(false);
   const toggleMenu = () => setIsOpen(!isOpen);
 
-  // Reusable DarkModeToggle component
+ 
   const DarkModeToggle = () => (
     <button
       onClick={toggleDarkMode}
@@ -35,7 +35,7 @@ const Navbar = ({ isDarkMode, toggleDarkMode }) => {
     <nav className="fixed w-full z-50 bg-white/80 backdrop-filter backdrop-blur-sm shadow-lg dark:bg-gray-900/80 transition-colors duration-300 ease-in-out">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          {/* Logo */}
+          
           <div className="flex-shrink-0">
             <a
               href="#home"
@@ -45,7 +45,7 @@ const Navbar = ({ isDarkMode, toggleDarkMode }) => {
             </a>
           </div>
 
-          {/* Desktop Menu */}
+         
           <div className="hidden md:flex items-center space-x-4">
             <a
               href="#about"
@@ -78,13 +78,13 @@ const Navbar = ({ isDarkMode, toggleDarkMode }) => {
               Footer
             </a>
 
-            {/* Desktop DarkModeToggle */}
+            
             <div className="ml-4">
               <DarkModeToggle />
             </div>
           </div>
 
-          {/* Mobile Buttons: DarkModeToggle first, Hamburger second */}
+   
           <div className="flex md:hidden items-center space-x-2">
             <DarkModeToggle />
             <button
@@ -133,7 +133,7 @@ const Navbar = ({ isDarkMode, toggleDarkMode }) => {
         </div>
       </div>
 
-      {/* Mobile Menu Links */}
+      
       {isOpen && (
         <div className="md:hidden" id="mobile-menu">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white dark:bg-gray-900 shadow-md">
