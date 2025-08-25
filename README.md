@@ -9,7 +9,7 @@ A personal portfolio website built with **React** and **Tailwind CSS**, showcasi
 
 ## 🚀 Live Demo
 
-Check out the live demo: **[Live Demo](https://urjiiko1.github.io/personal-portofolio/)**
+Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 
 ---
 
