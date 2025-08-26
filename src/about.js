@@ -36,7 +36,7 @@ const About = () => {
             style={{ transitionDelay: '150ms' }}
           >
             <img
-              src="/Profile.jpg"
+              src={process.env.PUBLIC_URL + "/Profile.jpg"}
               alt="Profile"
               className="rounded-full shadow-lg border-4 border-indigo-500 mx-auto transform hover:scale-105 transition-transform duration-300"
             />
