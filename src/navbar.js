@@ -71,12 +71,7 @@ const Navbar = ({ isDarkMode, toggleDarkMode }) => {
             >
               Contact
             </a>
-            <a
-              href="#footer"
-              className="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-300"
-            >
-              Footer
-            </a>
+           
 
             
             <div className="ml-4">
@@ -165,13 +160,7 @@ const Navbar = ({ isDarkMode, toggleDarkMode }) => {
             >
               Contact
             </a>
-            <a
-              href="#footer"
-              onClick={toggleMenu}
-              className="text-gray-600 hover:bg-gray-200 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-gray-700 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium transition-colors duration-300"
-            >
-              Footer
-            </a>
+          
           </div>
         </div>
       )}
