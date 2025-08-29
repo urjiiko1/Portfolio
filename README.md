@@ -1,9 +1,9 @@
+
 # 💻 Professional Web Portfolio
 
 A personal portfolio website built with **React** and **Tailwind CSS**, showcasing projects, skills and contact information. Designed to be responsive, modern and easy to maintain.
 
-> Feel free to contribute or suggest improvements!  
-> **Note:** This README is a work-in-progress and will be updated as new features and sections are added.
+> Built during my **summer internship at Information System Hub**, with **two weeks of intense work** (including a couple of sleepless nights ) to create a polished, responsive portfolio highlighting projects, skills and contact info.
 
 ---
 
@@ -13,16 +13,18 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 
 ---
 
-## 📋 What’s Included
+## 📋 Features & What’s Included
 
 - 🏠 **Home Section:** Introduction with name, title and call-to-action buttons.  
-- 🗂 **Projects Showcase:** Cards for each project with images, descriptions and GitHub links.  
+- 🗂 **Projects Showcase:** Cards for each project with images, descriptions, view  and GitHub links.  
 - 💻 **Skills Section:** Grid displaying programming languages, frameworks and tools.  
 - 🙋‍♂️ **About Section:** Personal bio and professional summary.  
 - 📬 **Contact Form:** Functional contact form styled with Tailwind CSS.  
 - 📱 **Responsive Design:** Works seamlessly on all screen sizes.  
 - 🌙 **Dark Mode Support:** Smooth toggle between light and dark themes.  
-- 🔗 **Navigation:** Smooth scroll navigation between sections.
+- 🔗 **Navigation:** Smooth scroll navigation between sections.  
+- 🛠 **Deployment:** Successfully deployed on GitHub Pages after overcoming challenges.  
+- ⏱ **Performance:** Optimized for fast loading and smooth user experience.
 
 ---
 
@@ -38,6 +40,32 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 
 ---
 
+## 📬 Contact & Connect
+
+- ✉️ Email: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)  
+- 📞 Phone: [+251976601074](tel:+251976601074)  
+- 📍 Location: Adaama, Ethiopia  
+
+<p align="center">
+  <a href="https://x.com/GemachisTe79854">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/urjiiko1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/urjiiko1">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://t.me/urjiiko1">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+  </a>
+</p>
+
+---
+
 ## 🗂 Table of Contents
 - [Front View](#-front-view)
 - [My Skills Section](#-my-skills-section)
@@ -45,7 +73,9 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 - [About Me Section](#-about-me-section)
 - [Contact Section](#-contact-section)
 
-## 🖼 Screenshots  
+---
+
+## 🖼 Screenshots
 
 <table>
   <tr>
@@ -76,77 +106,28 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
   </tr>
 </table>
 
-
-
 ---
-
-
 
 ## 📚 Useful Resources
 
-
-
-- [Tailwind Elements Button Group](https://tw-elements.com/docs/react/components/button-group/)
-
+- [Tailwind Elements Button Group](https://tw-elements.com/docs/react/components/button-group/)  
 - [React Contact Components](https://reactcomponents.com/?tags=contact&type=components&id=78)
-
-
-
----
-
-
-## 📬 Contact
-
-- ✉️ Email: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)  
-- 📞 Phone: [+251976601074](tel:+251976601074)  
-- 📍 Location: Adaama, Ethiopia  
-
-
-----
-
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://x.com/GemachisTe79854">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/urjiiko1">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/urjiiko1">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="https://t.me/urjiiko1">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
-  </a>
-</p>
 
 ---
 
 ## 🚧 Future Improvements
 
-- 🌟 Add more interactive projects  
-- 📝 Implement a blog section  
-- ♿ Enhance accessibility and SEO features  
-- ✨ Add animations for skills and projects
-
+- 📄 Add downloadable CV / Resume  
+- 🗂 Add project filters and live demos  
+- 📊 Show interactive skill charts  
+- 📝 Add blog / insights section  
+- 💬 Include testimonials / references  
+- 🏆 Showcase certificates and achievements  
 
 ---
-
 
 ## 🤝 Contributions & Feedback
 
 Contributions are what make the open-source community an amazing place to learn and create. Any feedback, suggestions, or bug reports are highly appreciated.
 
-
-
 > Made with ❤️ using React & Tailwind CSS
-
-
-
-
-
----
