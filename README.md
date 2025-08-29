@@ -101,7 +101,6 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 - 📞 Phone: [+251976601074](tel:+251976601074)  
 - 📍 Location: Adaama, Ethiopia  
 
----
 
 ----
 
