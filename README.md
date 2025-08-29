@@ -38,13 +38,44 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 
 ---
 
-## 🖼 Screenshots
+## 🗂 Table of Contents
+- [Front View](#-front-view)
+- [My Skills Section](#-my-skills-section)
+- [My Projects Section](#-my-projects-section)
+- [About Me Section](#-about-me-section)
+- [Contact Section](#-contact-section)
 
-![Front View](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FFrontView.png)
-![My Skills Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FMyskill.png)
-![My Project Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FMyproject.png)
-![About Me Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FAboutme.png)
-![Contact Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FContact.png)
+## 🖼 Screenshots  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FFrontView.png" alt="Landing page of the portfolio showcasing the introduction and navigation" width="300"/>
+      <br>🏠 Front View
+    </td>
+    <td align="center">
+      <img src="https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FMyskill.png" alt="Skills section displaying technical skills in frontend development, data analysis, and tools" width="300"/>
+      <br>💡 My Skills Section
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FMyproject.png" alt="Projects section with featured projects, descriptions, and links" width="300"/>
+      <br>📂 My Projects Section
+    </td>
+    <td align="center">
+      <img src="https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FAboutme.png" alt="About Me section with personal background, education, and career goals" width="300"/>
+      <br>👨‍💻 About Me Section
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FContact.png" alt="Contact section with form and links to email and social media" width="600"/>
+      <br>📩 Contact Section
+    </td>
+  </tr>
+</table>
+
 
 
 ---
