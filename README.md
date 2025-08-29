@@ -40,7 +40,7 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 
 ## 🖼 Screenshots
 
-![Front View](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/FrontView.png)
+![Front View](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FFrontView.png)
 ![My Skills Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Myskill.png)
 ![My Project Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Myproject.png)
 ![About Me Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Aboutme.png)
