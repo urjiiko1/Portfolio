@@ -110,7 +110,7 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 
 ## 📚 Useful Resources
 
-- [Tailwind Elements Button Group](https://tw-elements.com/docs/standard/getting-started/quick-start/)  
+- [Standard Tailwind by tw elements ](https://tw-elements.com/docs/standard/getting-started/quick-start/)  
 - [React Contact Components](https://reactcomponents.com/?tags=contact&type=components&id=78)
 
 ---
