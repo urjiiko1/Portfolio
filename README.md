@@ -95,18 +95,35 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 ---
 
 
-
 ## 📬 Contact
 
 - ✉️ Email: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)  
-- 📞 Phone: [ +251976601074](tel:+251976601074)  
+- 📞 Phone: [+251976601074](tel:+251976601074)  
 - 📍 Location: Adaama, Ethiopia  
 
-Connect with me on:  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/GemachisTe79854)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/urjiiko1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gemachis-tesfaye-137196318)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/urjiiko1)
+---
+
+----
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://x.com/GemachisTe79854">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/urjiiko1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/urjiiko1">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://t.me/urjiiko1">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
