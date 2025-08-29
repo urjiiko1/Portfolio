@@ -43,8 +43,8 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 ![Front View](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FFrontView.png)
 ![My Skills Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FMyskill.png)
 ![My Project Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FMyproject.png)
-![About Me Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Aboutme.png)
-![Contact Section](https://raw.githubusercontent.com/urjiiko1/personal-portofolio/main/public/Screenshoot/Contact.png)
+![About Me Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FAboutme.png)
+![Contact Section](https://github.com/urjiiko1/Portfolio/blob/main/public%2FScreenshoot%2FContact.png)
 
 
 ---
