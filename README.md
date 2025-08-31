@@ -128,6 +128,6 @@ Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
 
 ## 🤝 Contributions & Feedback
 
-Contributions are what make the open-source community an amazing place to learn and create. Any feedback, suggestions, or bug reports are highly appreciated.
+Contributions are what make the open-source community an amazing place to learn and create. Any feedback, suggestions or bug reports are highly appreciated.
 
 > Made with ❤️ using React & Tailwind CSS
